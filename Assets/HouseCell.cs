@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class HouseCell : MonoBehaviour {
+public class HouseCell {
 
 	private GameObject[] walls; //0 = Left, 1 = Top, 2 = Right, 3 = Bottom
 	private int itemIndex; //0 = Nothing, 1 = Red Shells, 2 = Bananas, 3 = Green Shells, 4 = Fake Item Boxes

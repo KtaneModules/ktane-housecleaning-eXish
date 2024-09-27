@@ -17,7 +17,7 @@ MonoBehaviour:
   description: "Determine which 5\xD75 section of a house is being displayed and clean
     all the invisible trash with the right products.\n\nHTML: https://ktane.timwi.de/HTML/Housecleaning.html\nPDF:
     https://ktane.timwi.de/PDF/Housecleaning.pdf\n\nHousecleaning (housecleaningModule)
-    v1.0.0\nModule Idea by Pruz\nImplemented by eXish\nTwitch Plays supported"
-  version: 1.0.0
+    v1.0.1\nModule Idea by Pruz\nImplemented by eXish\nTwitch Plays supported"
+  version: 1.0.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: acf24dfadb57aaf4f939fb31f9a37b37, type: 3}
